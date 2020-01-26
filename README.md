@@ -1,4 +1,4 @@
-# hello-world
+# First-Repo
 
 Hello people Aadhar here!
-i can't say much about myself because i find this embarassing.
+I am new to git and am trying to understand how things work here.
